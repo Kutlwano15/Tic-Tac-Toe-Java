@@ -92,6 +92,6 @@ public class TicTacToe {
         box.setForeground(Color.blue);
         box.setBackground(Color.black);
         Jlabel.setText(currentPlayer + " WON!");
-        Jlabel.setForeground(Color.blue);
+        Jlabel.setForeground(Color.green);
     }
 }
